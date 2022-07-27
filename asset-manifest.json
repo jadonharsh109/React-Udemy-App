@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Udemy-App/static/css/main.ed81a751.css",
+    "main.js": "/React-Udemy-App/static/js/main.e3992572.js",
+    "static/js/787.6bbb55fe.chunk.js": "/React-Udemy-App/static/js/787.6bbb55fe.chunk.js",
+    "static/media/shopping-bag.svg": "/React-Udemy-App/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/React-Udemy-App/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/React-Udemy-App/index.html",
+    "main.ed81a751.css.map": "/React-Udemy-App/static/css/main.ed81a751.css.map",
+    "main.e3992572.js.map": "/React-Udemy-App/static/js/main.e3992572.js.map",
+    "787.6bbb55fe.chunk.js.map": "/React-Udemy-App/static/js/787.6bbb55fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed81a751.css",
+    "static/js/main.e3992572.js"
+  ]
+}
